@@ -1,7 +1,7 @@
 # Problem 10
 # Summation of primes
 
-from prime import is_prime
+from tools.prime import is_prime
 from time import perf_counter
 
 limit = 2000000
