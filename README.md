@@ -8,4 +8,6 @@ Doing these for two reasons:
 > "Project Euler exists to encourage, challenge, and develop the skills and 
 > enjoyment of anyone with an interest in the fascinating world of mathematics."
 
-23 Problems Completed
+## Problems Completed: _24_
+
+![Labtocat](https://octodex.github.com/images/labtocat.png)
